@@ -3,7 +3,7 @@
 
 1、All the codes run on MATLAB 2019b.
 =======
-1、All the codes is our offering demo, which runs on MATLAB 2019b.
+1、incomplete the codes is our offering demo, which runs on MATLAB 2019b.
 
 2、demo.m is the main file of our method, which includes the loading of data, subspace learning and clustering.  It is the entrance of codes.
 
@@ -11,7 +11,9 @@
 
 4、Tools is the tool box of our methods, which  is used.
 
-5、ORL\_32x32.mat and Yale\_32x32.mat are our offering datasets as examples to run our method.
+5、ORL\_32x32.mat and Yale\_32x32.mat are our offering datasets as examples to run our method.  
+
+6、Complete codes will be public upon its acceptness.
 
 
 \#############################################################################
