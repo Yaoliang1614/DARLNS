@@ -3,7 +3,7 @@
 
 1、All the codes run on MATLAB 2019b.
 =======
-1、incomplete the codes is our offering demo, which runs on MATLAB 2019b.
+1、incomplete codes is our offering demo, which runs on MATLAB 2019b.
 
 2、demo.m is the main file of our method, which includes the loading of data, subspace learning and clustering.  It is the entrance of codes.
 
