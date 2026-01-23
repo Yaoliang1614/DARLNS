@@ -1,7 +1,11 @@
 # DARLNS, Paper is preparing to submit to the journal.
 
 
+<<<<<<< HEAD
 1、All the codes run on MATLAB 2019b.
+=======
+1、All the codes is our offering demo, which runs on MATLAB 2019b.
+>>>>>>> 262f7241baf3db73cd9d20f72ee499c284083d0d
 
 2、demo.m is the main file of our method, which includes the loading of data, subspace learning and clustering.  It is the entrance of codes.
 
@@ -34,4 +38,8 @@
 
   
 
+<<<<<<< HEAD
 If you have any questions, please contact me with QQ:2508466534 or Email:2508466534@qq.com  
+=======
+If you have any questions, please contact me with QQ:2508466534 or Email:2508466534@qq.com  
+>>>>>>> 262f7241baf3db73cd9d20f72ee499c284083d0d
