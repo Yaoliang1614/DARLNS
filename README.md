@@ -1,7 +1,6 @@
 # DARLNS, Paper is preparing to submit to the journal.
 
 
-<<<<<<< HEAD
 1、All the codes run on MATLAB 2019b.
 =======
 1、All the codes is our offering demo, which runs on MATLAB 2019b.
@@ -37,7 +36,6 @@
 
   
 
-<<<<<<< HEAD
 If you have any questions, please contact me with QQ:2508466534 or Email:2508466534@qq.com  
 =======
 If you have any questions, please contact me with QQ:2508466534 or Email:2508466534@qq.com  
